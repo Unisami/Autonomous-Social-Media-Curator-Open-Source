@@ -1,6 +1,6 @@
 # Autonomous Social Media Content Curator
 
-An AI-powered system for autonomous social media content curation and posting using CrewAI.
+An AI-powered system for autonomous social media content curation and posting using CrewAI. All made for hobby and practice, any improvements will be appriciated!
 
 ## Current Implementation Status
 
