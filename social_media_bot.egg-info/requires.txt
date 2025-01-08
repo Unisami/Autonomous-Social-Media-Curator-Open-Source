@@ -1,0 +1,9 @@
+crewai
+openai
+twikit
+requests
+beautifulsoup4
+sqlalchemy
+newsapi-python
+feedparser
+python-dotenv
